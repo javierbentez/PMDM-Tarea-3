@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133389769080",
+    "project_id": "fp---pmdm",
+    "storage_bucket": "fp---pmdm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133389769080:android:e944ab477b0a76722c108d",
+        "android_client_info": {
+          "package_name": "dam.pmdm.tarea3jbg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133389769080-sdohtcoe2j1k59j8g7u6dduo2ofe9eed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0kfvj3_5TTyI4RlLCZcLFn5N5vKG2QnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133389769080-sdohtcoe2j1k59j8g7u6dduo2ofe9eed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
