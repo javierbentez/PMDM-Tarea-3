@@ -43,6 +43,6 @@ Durante el desarrollo de esta aplicación, enfrenté varios desafíos, como la i
 
 # Capturas de pantalla
 
-![Pantalla de inicio de sesión](images/login.jpg)
-![Lista de Pokémon](images/pokemons.jpg)
-![Detalles de un Pokémon](images/details.jpg)
+<img src="images/login.jpg" alt="Pantalla de inicio de sesión" width="300"/>
+<img src="images/pokemons.jpg" alt="Lista de Pokémon" width="300"/>
+<img src="images/details.jpg" alt="Detalles de un Pokémon" width="300"/>
